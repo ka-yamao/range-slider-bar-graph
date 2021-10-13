@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<array name="initial_slider_values">
+		<item>0.0</item>
+		<item>18.0</item>
+	</array>
+	<array name="min_price_text">
+		<item>下限なし</item>
+		<item>3,000円</item>
+		<item>4,000円</item>
+		<item>5,000円</item>
+		<item>6,000円</item>
+		<item>7,000円</item>
+		<item>8,000円</item>
+		<item>9,000円</item>
+		<item>1,0000円</item>
+		<item>1,2000円</item>
+		<item>1,4000円</item>
+		<item>1,6000円</item>
+		<item>1,8000円</item>
+		<item>20,000円</item>
+		<item>30,000円</item>
+		<item>40,000円</item>
+		<item>50,000円</item>
+		<item>70,000円</item>
+		<item>100,000円</item>
+	</array>
+	<array name="max_price_text">
+		<item>3,000円</item>
+		<item>4,000円</item>
+		<item>5,000円</item>
+		<item>6,000円</item>
+		<item>7,000円</item>
+		<item>8,000円</item>
+		<item>9,000円</item>
+		<item>1,0000円</item>
+		<item>1,2000円</item>
+		<item>1,4000円</item>
+		<item>1,6000円</item>
+		<item>1,8000円</item>
+		<item>20,000円</item>
+		<item>30,000円</item>
+		<item>40,000円</item>
+		<item>50,000円</item>
+		<item>70,000円</item>
+		<item>100,000円</item>
+		<item>上限なし</item>
+	</array>
+
+	<array name="graph_sample_data">
+		<item>330</item>
+		<item>1156</item>
+		<item>2557</item>
+		<item>4137</item>
+		<item>5386</item>
+		<item>6677</item>
+		<item>7730</item>
+		<item>8369</item>
+		<item>10906</item>
+		<item>11184</item>
+		<item>10705</item>
+		<item>10150</item>
+		<item>9550</item>
+		<item>13477</item>
+		<item>9960</item>
+		<item>7181</item>
+		<item>5846</item>
+		<item>3656</item>
+		<item>2118</item>
+	</array>
+</resources>
